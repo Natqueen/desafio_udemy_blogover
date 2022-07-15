@@ -113,7 +113,7 @@ height: 8px;
 
    .headline{
 grid-area: headline;
-background: url(/images/fundo-1.png) no-repeat center;
+background: url(desafio_udemy_blogover/images/fundo-1.png) no-repeat center;
 height: 80vh;
 display:flex;
 flex-direction: column;
@@ -397,7 +397,7 @@ padding: 10px;
 align-items: center;
 justify-content: center;
 display: flex;
-background: url(/images/drone.png) no-repeat center;
+background: url(/desafio_udemy_blogover/images/drone.png) no-repeat center;
 object-fit: initial;
 
 }
